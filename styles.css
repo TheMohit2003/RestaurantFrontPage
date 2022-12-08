@@ -127,9 +127,30 @@
 }
 
 .container-5{
+    min-height: 500px;
     height: fit-content;
     width: 100%;
-   
+    background-color: black;
+    color: white;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.container-5 .social-media{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container-5 img{
+    height: 100px;
+    width: 100px;
+    margin: 50px;
 }
 
 footer{
