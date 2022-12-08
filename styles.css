@@ -73,11 +73,32 @@
 
 
 .container-3{
-    height: fit-content;
+    height: 800px;
     width: 100%;
     background-color: black;
-    color: white;
-   
+    color: rgb(159, 156, 156);
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.container-3 .menu-items{
+    padding-top: 25px;
+    padding-bottom:25px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.container-3 p{
+    padding-top: 20px;
+}
+
+#menu{
+    padding-bottom: 50px;
 }
 
 .container-4{
