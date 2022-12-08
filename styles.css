@@ -102,9 +102,28 @@
 }
 
 .container-4{
-    height: fit-content;
+    height: 600px;
     width: 100%;
+    display: flex;
+    align-items:flex-start;
+
     
+}
+
+.about-us{
+    text-align: center;
+    padding: 100px 50px 50px 50px;
+}
+
+.about-us h1{
+    font-size: xx-large;
+    
+}
+
+.about-us p{
+    margin-top: 100px;
+    line-height: 1.7;
+    font-size: large;
 }
 
 .container-5{
