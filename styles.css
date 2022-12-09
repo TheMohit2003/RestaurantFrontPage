@@ -106,6 +106,10 @@
     padding-bottom: 50px;
 }
 
+.menu-title{
+    color: aliceblue;
+}
+
 .container-4{
     min-height: 600px;
     height: fit-content;
