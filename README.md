@@ -1,5 +1,5 @@
 # RestaurantFrontPage
-- this webpage is a sample webpage for a japanese restaurant
+- this [webpage](https://themohit2003.github.io/RestaurantFrontPage/) is a sample webpage for a japanese restaurant
 ![Japanese-Restaurant](https://user-images.githubusercontent.com/99909551/210106757-42a97fdd-6a14-4bfd-88d7-f12eb61ea57c.png)
 
 # Features
